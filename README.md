@@ -6,4 +6,4 @@ This POC has purpose to study Python, also provide some tools that can help dail
 #### generateFakeCpf
 
 - How to execute: `$ python3 generateFakeCpf.py`
-- This will automatically copy the result for the clipboard.
+- This will automatically copy the result to the clipboard.
